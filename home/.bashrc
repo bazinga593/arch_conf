@@ -18,7 +18,7 @@ alias lx='ls -lXB'
 alias lk='ls -lSr'
 alias ll='ls -lh'
 alias mkdir='mkdir -p'
-
+alias startfail='journalctl -b -p err'
 
 # Colors
 # Normal
