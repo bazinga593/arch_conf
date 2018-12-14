@@ -83,5 +83,5 @@ On_IPurple='\e[0;105m'
 On_ICyan='\e[0;106m'
 On_IWhite='\e[0;107m'
 
-PS1="\[$Green\][\[\e[m\]\[$BIRed\]\u\[\e[m\] \[$IYellow\]\w\[\e[m\]\[$Green\]]\[\e[m\]\[$IRed\]#\[\e[m\]\[$IRed\] "
+PS1="\[$Green\][\[\e[m\]\[$BIPurple\]\u\[\e[m\] \[$IYellow\]\w\[\e[m\]\[$Green\]]\[\e[m\]\[$IRed\]#\[\e[m\]\[$IRed\] "
 
